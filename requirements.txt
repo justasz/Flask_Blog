@@ -2,9 +2,7 @@ flask
 flask-wtf
 flask-sqlalchemy
 flask-bcrypt
-<<<<<<< HEAD
 flask-login
 Pillow
-=======
 flask-login
->>>>>>> bfe2426d6cbd97ad615fa6bb4ee351b0a83bf124
+flask-mail
